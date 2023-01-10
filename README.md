@@ -1,5 +1,5 @@
 # FileZip
-A library for creating **basic** zip files
+A library for creating **basic** zip files (based on this: https://gist.github.com/rvaiya/4a2192df729056880a027789ae3cd4b7)
 
 ## Get the library
 ```
